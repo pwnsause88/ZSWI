@@ -1,3 +1,3 @@
 # ZSWI
 Semestrální práce z ZSWI 2017 (LSL)
-dwaaaaaaaa
+изменение 1 88
